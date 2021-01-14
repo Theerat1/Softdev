@@ -1,3 +1,6 @@
-.h:hover{
+.h1:hover{
     color: red;
+}
+img{
+    border: 10px orange;
 }
